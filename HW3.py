@@ -43,8 +43,8 @@ new_sentence = ' '.join(last_words).capitalize() + '.'
 print(f"Sentence made of the last words: {new_sentence}")
 
 # Task 3: Fix the mistakes
-# step 1: replase words iz->is and thiz->this
-HW_string_without_mistakes = HW_string_normalized.replace(" iz ", " is ").replace("Thiz", "this")
+# step 1: replace words iz->is
+HW_string_without_mistakes = HW_string_normalized.replace(" iz ", " is ")
 # step 2: print
 print(HW_string_without_mistakes)
 
