@@ -1,0 +1,14 @@
+<input_records>
+    <record type="News">
+        <text>A huge Maya city has been discovered centuries after it disappeared under jungle canopy in Mexico. Archaeologists found pyramids, sports fields, causeways connecting districts and amphitheatres in the southeastern state of Campeche.</text>
+        <city>Mexico</city>
+    </record>
+    <record type="PrivateAd">
+        <text>Turbocharged science. Take advantage of the -11% educational discount and buy your dream MacBook. The promotion is open to pupils and students aged 18 and over, as well as education sector employees.</text>
+        <expiration_date>2024-11-30</expiration_date>
+    </record>
+        <record type="Quote">
+        <text>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.</text>
+        <author>Thomas A. Edison</author>
+    </record>
+</input_records>
